@@ -2,6 +2,7 @@ import pygame
 import time
 import random
 
+#Snake Game
 pygame.init()
 
 white = (255, 255, 255)
